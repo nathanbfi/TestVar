@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite 1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>b888e793-1a52-4a20-84b5-67d2f4e1c343</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb2f1ea4-5616-42e5-bd29-1ab17b08caa2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5dfffb5c-9f4a-4bac-bc62-4ad1c5ef26d1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5dfffb5c-9f4a-4bac-bc62-4ad1c5ef26d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>age</value>
+         <variableId>96491850-8bef-4f5a-aa5a-5b4198e4df39</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5dfffb5c-9f4a-4bac-bc62-4ad1c5ef26d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>89510ccc-6f83-404a-b9a7-db2373cbe59f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5dfffb5c-9f4a-4bac-bc62-4ad1c5ef26d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>1832d013-e388-4e6b-9d5a-fb0fbbd901c7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5dfffb5c-9f4a-4bac-bc62-4ad1c5ef26d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>gender</value>
+         <variableId>2e519542-85dd-4e4b-8d52-0cec882bbe30</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0b0f51a7-d026-411c-9a4f-3b0bd4bd002f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
